@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkukrc
+- 👋 Hi, I’m @utkukrc a fourth-year PhD student at [Erasmus University Rotterdam](https://www.eur.nl)
 - ⚡ I'm always into math, data science, programming and optimization
 - 🌱 I love to learn and grow myself every day
 - 📫 Connect with me on:
