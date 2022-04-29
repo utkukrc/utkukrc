@@ -2,9 +2,10 @@
 - ⚡ I'm always into math, data science, programming and optimization
 - 🌱 I love to learn and grow myself every day
 - 📫 Connect with me on:
-     - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/utku-karaca)
-     - [Twitter](https://www.twitter.com/utkukrc)
+     - [![Linkedin](https://img.shields.io/badge/LinkedIn-utkukaraca-blue?logo=linkedin)](https://www.linkedin.com/in/utku-karaca)
+     - [![Twitter](https://img.shields.io/badge/Twitter-utkukrc-blue?logo=Twitter)](https://www.twitter.com/utkukrc)
      - [LeetCode](https://leetcode.com/utkukaraca/)
+- 📫 You can also reach me via [email](mailto:utkukaraca@outlook.com)
 
 
 <!---
