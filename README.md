@@ -3,7 +3,8 @@
 - 🌱 I love to learn and grow myself every day
 - 📫 Connect with me on:
     [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/utku-karaca)
-    [![Twitter](https://i.stack.imgur.com/gVE0j.png) Twitter](https://www.twitter.com/utkukrc)
+    
+    [Twitter](https://www.twitter.com/utkukrc)
 
 
 <!---
